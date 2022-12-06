@@ -1,0 +1,11 @@
+<a href='1.XSS.php'>1.xss</a><br>	
+<a href='2.htmlspecialchar.php'>2.htmlspecialchar</a><br>		
+<a href='3.htmlentities.php'>3.htmlentities</a><br>
+<a href='4.betweenscript.php'>4.betweenscript</a><br>
+<a href='5.betweenscript_htmlspecialchars.php'>5.betweenscript_htmlspecialchars</a><br>
+<a href='6.betweenscript_htmlenetities.php'>6.betweenscript_htmlenetities</a><br>
+<a href='7.betweenscript_userdefine.php'>7.betweenscript_userdefine</a><br>
+<a href='8.deadcode.php'>8.deadcode</a><br>
+<a href='9.onlyadmin.php'>9.onlyadmin</a><br>
+<a href='10.solver.php'>10.solver</a><br>				
+<a href='11.solverdeadcode.php'>11.solverdeadcode</a><br>			
